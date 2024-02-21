@@ -1,4 +1,4 @@
-### rename bag's name to NTUST(NTUST.bag, This file is unpublished)
+### Rename bag's name to NTUST(NTUST.bag, This file is unpublished)
 roscore
 ### new term
 roslaunch justrun.launch
