@@ -3,7 +3,7 @@ roscore
 ### new term
 roslaunch justrun.launch
 
-###-------------
+-------------
 
 rostopic echo /rgb/front_center/original_image
 
